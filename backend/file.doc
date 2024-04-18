@@ -1,0 +1,19 @@
+
+
+For Running server
+------------------
+npm run dev
+
+JWT Tokens use to encrypt password
+----------------------------------
+npm i bcrypt
+npm i jsonwebtoken
+
+Data stored in Atlas 
+user 1 
+email:naruto02gupta@gmail.com
+password: 12345678
+
+user2
+email:
+password:
