@@ -22,9 +22,9 @@ export default function Footer() {
       <div className="col-2">
         <h5>Social Link</h5>
         <ul className="nav flex-column">
-          <li className="nav-item mb-2"><Link to="https://github.com/SteadFast02" className="nav-link p-0 text-muted">GitHub</Link></li>
-          <li className="nav-item mb-2"><Link to="https://www.linkedin.com/in/achal-gupta-0861b6210/" className="nav-link p-0 text-muted">Facebook</Link></li>
-          <li className="nav-item mb-2"><Link to="https://www.facebook.com/profile.php?id=100049135571810" className="nav-link p-0 text-muted">LinkdIn</Link></li>
+          <li className="nav-item mb-2"><Link to="https://github.com/AnuGupta03" className="nav-link p-0 text-muted">GitHub</Link></li>
+          <li className="nav-item mb-2"><Link to="https://www.linkedin.com/in/anuradha-gupta-/" className="nav-link p-0 text-muted">Facebook</Link></li>
+          <li className="nav-item mb-2"><Link to="https://www.facebook.com/profile.php?id=100011710174102" className="nav-link p-0 text-muted">LinkdIn</Link></li>
         </ul>
       </div>
 
